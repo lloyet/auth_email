@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # Your Email Information: Recipient (To:), Subject and Body
-RECIPIENT="osia@egasys.com"
-SUBJECT="Email from your OSIA-Server: SSH Alert"
+RECIPIENT="YOUR-EMAIL"
+SUBJECT="YOUR ALERT MESSAGE"
 
 BODY="
 A SSH login was successful, so here are some information for security:
